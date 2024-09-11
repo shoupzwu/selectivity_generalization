@@ -1,0 +1,1001 @@
+cd_demo_sk,cd_gender,cd_marital_status,cd_education_status,cd_purchase_estimate,cd_credit_rating,cd_dep_count,cd_dep_employed_count,cd_dep_college_count
+314861,M,M,Primary,9500,Good,0,1,1
+1822475,M,D,College,8000,Low Risk,3,4,6
+1288111,M,M,4 yr Degree,1000,Good,6,4,4
+248801,M,M,College,7500,Low Risk,2,6,0
+1218808,F,W,2 yr Degree,6000,High Risk,0,3,4
+471797,M,W,Unknown,10000,Good,0,5,1
+1220739,M,U,Primary,10000,Unknown,0,3,4
+719068,F,W,College,6500,Low Risk,2,4,2
+717846,F,D,Unknown,7500,Good,2,4,2
+654451,M,M,College,5000,Unknown,4,2,2
+1139716,F,D,4 yr Degree,1000,High Risk,0,1,4
+72624,F,S,2 yr Degree,9000,Unknown,5,1,0
+1389107,M,W,College,2500,Good,3,0,5
+1106914,F,S,Primary,7000,High Risk,1,0,4
+1298517,M,W,Secondary,5500,Unknown,0,5,4
+1080227,M,W,Advanced Degree,6000,Unknown,3,6,3
+769583,M,S,Primary,7500,Low Risk,4,5,2
+67425,M,D,Secondary,2000,Good,5,1,0
+1141495,M,D,Primary,4000,Unknown,0,1,4
+1473640,F,U,Unknown,6000,Good,4,2,5
+1281372,F,M,College,3000,Unknown,4,4,4
+1572060,F,U,Unknown,9000,High Risk,0,5,5
+1657050,F,U,Primary,6500,Unknown,1,0,6
+1623309,M,U,Primary,5500,Unknown,2,6,5
+1425044,F,S,Advanced Degree,9000,Low Risk,2,1,5
+780219,M,U,Unknown,3000,Low Risk,6,5,2
+396442,F,M,2 yr Degree,2000,Unknown,0,3,1
+1483288,F,W,Advanced Degree,5000,Unknown,5,2,5
+1709884,F,S,Unknown,3500,Low Risk,4,1,6
+1685232,F,M,Advanced Degree,7500,Unknown,6,0,6
+149804,F,S,Primary,500,Unknown,5,3,0
+263492,F,M,Secondary,2500,Good,5,6,0
+992012,F,M,4 yr Degree,6000,Good,2,4,3
+1774360,F,U,Unknown,4000,Unknown,1,3,6
+1745353,M,S,4 yr Degree,7000,High Risk,3,2,6
+1661781,M,M,Advanced Degree,10000,High Risk,2,0,6
+697844,F,S,Secondary,5000,High Risk,5,3,2
+1564151,M,M,Primary,3000,Low Risk,6,4,5
+1514216,F,D,4 yr Degree,6000,Low Risk,4,3,5
+762937,M,W,Primary,10000,Good,3,5,2
+704250,F,U,4 yr Degree,500,Unknown,6,3,2
+952952,F,M,4 yr Degree,7000,Good,2,3,3
+1505337,M,W,Advanced Degree,2500,Unknown,2,3,5
+363554,F,S,4 yr Degree,7000,Unknown,1,2,1
+1491868,F,W,College,6500,Low Risk,0,3,5
+743243,M,S,Advanced Degree,9000,High Risk,6,4,2
+878889,M,U,2 yr Degree,8000,Unknown,2,1,3
+937371,M,M,Primary,6000,Low Risk,6,2,3
+891673,M,S,Secondary,9500,Good,5,1,3
+302423,M,S,College,500,Good,5,0,1
+77918,F,W,Primary,7000,Unknown,6,1,0
+274634,F,S,College,2000,Good,0,0,1
+444298,F,W,Primary,4000,Low Risk,2,4,1
+954096,F,D,Unknown,5000,Low Risk,2,3,3
+1262443,M,S,Unknown,7500,Low Risk,1,4,4
+1587413,M,S,College,9000,Low Risk,3,5,5
+1325541,M,M,College,8500,High Risk,5,5,4
+1891433,M,S,2 yr Degree,500,Unknown,1,6,6
+588073,M,S,Primary,1000,Good,0,1,2
+1811245,M,D,Unknown,7500,Low Risk,1,4,6
+595640,F,U,Primary,5000,Low Risk,1,1,2
+1482188,F,W,Primary,7500,High Risk,5,2,5
+946606,F,D,Unknown,1500,Good,1,3,3
+736843,M,S,College,3500,High Risk,5,4,2
+666198,F,W,Primary,9000,Unknown,6,2,2
+717206,F,D,Advanced Degree,3000,Good,2,4,2
+1679666,F,D,Secondary,8000,Unknown,5,0,6
+1091723,M,S,Primary,8500,Unknown,5,6,3
+1495383,M,S,4 yr Degree,1500,Good,1,3,5
+540531,M,M,Unknown,1000,High Risk,5,6,1
+1301782,F,M,Unknown,8500,Low Risk,1,5,4
+986608,F,W,College,7500,Good,1,4,3
+1714890,F,U,College,9500,Good,5,1,6
+259443,M,S,College,3500,Low Risk,4,6,0
+204586,F,D,4 yr Degree,1500,High Risk,1,5,0
+154495,M,D,Primary,4000,High Risk,6,3,0
+1918932,F,M,College,7000,High Risk,6,6,6
+697914,F,S,Secondary,5500,High Risk,5,3,2
+1172257,M,W,2 yr Degree,3500,Low Risk,6,1,4
+1058839,M,U,Secondary,3500,Good,0,6,3
+110136,F,D,College,7000,High Risk,5,2,0
+991432,F,M,College,2000,Good,2,4,3
+1065831,M,M,Secondary,3500,Low Risk,1,6,3
+233524,F,S,Primary,8500,High Risk,6,5,0
+304056,F,D,4 yr Degree,2000,Low Risk,5,0,1
+1286138,F,W,College,7000,High Risk,5,4,4
+161316,F,D,2 yr Degree,2500,Unknown,0,4,0
+1811623,M,S,College,500,High Risk,1,4,6
+1728094,F,S,Primary,4000,High Risk,0,2,6
+1808752,F,M,College,10000,Unknown,0,4,6
+1862887,M,W,4 yr Degree,6500,High Risk,3,5,6
+1108098,F,W,Unknown,5000,Unknown,1,0,4
+158967,M,W,Unknown,5500,Low Risk,0,4,0
+1381372,F,M,Unknown,7000,High Risk,1,0,5
+813332,F,M,Primary,10000,Good,5,6,2
+32649,M,U,College,3500,Unknown,5,0,0
+1824756,F,D,Unknown,4000,Unknown,3,4,6
+468605,M,D,College,7500,High Risk,6,4,1
+1369107,M,W,4 yr Degree,9500,Low Risk,6,6,4
+61132,F,M,College,7000,Unknown,3,1,0
+1239373,M,S,College,3000,Low Risk,4,3,4
+887725,M,D,Advanced Degree,1000,High Risk,4,1,3
+1541193,M,S,Primary,9000,Good,2,4,5
+1374542,F,M,College,8500,Low Risk,0,0,5
+1255050,F,U,Secondary,5000,Good,0,4,4
+212226,F,D,Advanced Degree,6000,Unknown,2,5,0
+1604507,M,W,2 yr Degree,1000,High Risk,6,5,5
+188910,F,U,4 yr Degree,9500,High Risk,5,4,0
+1765033,M,S,Advanced Degree,7500,Good,0,3,6
+1481374,F,S,2 yr Degree,1500,High Risk,5,2,5
+1028527,M,W,Secondary,7000,High Risk,1,5,3
+10057,M,W,4 yr Degree,2000,Unknown,1,0,0
+532867,M,W,College,6500,Good,4,6,1
+1396044,F,S,2 yr Degree,2000,Low Risk,4,0,5
+910783,M,S,Secondary,6000,High Risk,1,2,3
+1212342,F,M,Secondary,10000,Low Risk,6,2,4
+253143,M,S,College,8500,Good,3,6,0
+1809702,F,M,Unknown,6500,Good,1,4,6
+1303754,F,S,Primary,3000,Unknown,1,5,4
+430742,F,M,2 yr Degree,7000,Unknown,6,3,1
+282688,F,W,College,9500,Low Risk,1,0,1
+1345937,M,W,4 yr Degree,4000,Low Risk,2,6,4
+1082066,F,D,Primary,9500,Good,4,6,3
+1740838,F,W,Primary,5000,Unknown,2,2,6
+1341456,F,D,4 yr Degree,2000,High Risk,1,6,4
+1510064,F,S,College,6500,High Risk,3,3,5
+1835071,M,M,College,8000,High Risk,5,4,6
+1390713,M,S,College,4000,Low Risk,3,0,5
+815391,M,M,2 yr Degree,4500,High Risk,5,6,2
+1665231,M,M,Primary,5000,Low Risk,3,0,6
+663453,M,S,Unknown,9000,Low Risk,6,2,2
+1817251,M,M,Advanced Degree,500,High Risk,2,4,6
+458330,F,U,2 yr Degree,4000,Unknown,4,4,1
+1283096,F,D,Unknown,5000,Good,5,4,4
+581857,M,W,Secondary,6500,Unknown,5,0,2
+748560,F,U,4 yr Degree,7000,High Risk,0,5,2
+254276,F,D,2 yr Degree,6500,Low Risk,3,6,0
+521694,F,S,Advanced Degree,6500,Good,2,6,1
+216591,M,M,Secondary,7500,High Risk,3,5,0
+55492,F,M,Advanced Degree,6500,Unknown,2,1,0
+1095458,F,W,College,5000,High Risk,6,6,3
+614567,M,W,2 yr Degree,10000,High Risk,4,1,2
+1134955,M,D,4 yr Degree,7000,High Risk,6,0,4
+811881,M,M,College,9500,Unknown,4,6,2
+443241,M,M,Primary,6500,Good,2,4,1
+1794937,M,W,Unknown,1000,High Risk,5,3,6
+1789182,F,M,Advanced Degree,10000,Low Risk,4,3,6
+772291,M,M,Advanced Degree,6500,Unknown,4,5,2
+1452590,F,U,Secondary,6000,Low Risk,0,2,5
+1116439,M,U,Primary,5000,Low Risk,3,0,4
+442346,F,D,Secondary,10000,Unknown,1,4,1
+1030599,M,U,Advanced Degree,1500,Good,2,5,3
+196695,M,D,Unknown,5000,Good,0,5,0
+1759715,M,D,Advanced Degree,9500,Good,6,2,6
+1304060,F,U,College,5000,Unknown,1,5,4
+1049578,F,W,Unknown,7000,Low Risk,5,5,3
+471548,F,W,College,8500,Good,0,5,1
+120826,F,D,Primary,3500,High Risk,0,3,0
+934924,F,S,Primary,8500,Unknown,5,2,3
+530116,F,D,Primary,7000,High Risk,3,6,1
+1456507,M,W,Secondary,4000,Good,1,2,5
+1517199,M,U,Secondary,7500,Unknown,4,3,5
+706559,M,U,4 yr Degree,7000,Good,0,4,2
+1340994,F,S,Primary,9000,Low Risk,1,6,4
+697004,F,S,Secondary,9000,Low Risk,5,3,2
+901825,M,D,Secondary,2000,Good,0,2,3
+1470322,F,M,4 yr Degree,2500,High Risk,3,2,5
+1000534,F,S,College,7000,High Risk,3,4,3
+1831850,F,U,Secondary,5000,Good,5,4,6
+89517,M,W,Advanced Degree,9500,Unknown,1,2,0
+504625,M,D,Unknown,4500,Good,6,5,1
+1135819,M,U,Unknown,3000,Unknown,6,0,4
+1246832,F,M,Unknown,6000,High Risk,5,3,4
+111509,M,U,Unknown,6500,Unknown,5,2,0
+236225,M,D,4 yr Degree,7500,Good,0,6,0
+645121,M,M,Primary,8500,Good,3,2,2
+266583,M,S,College,4500,High Risk,5,6,0
+336826,F,D,Advanced Degree,6000,Good,4,1,1
+789333,M,S,Secondary,8500,Unknown,0,6,2
+89303,M,S,Advanced Degree,8000,Unknown,1,2,0
+239782,F,M,2 yr Degree,3000,Unknown,0,6,0
+349271,M,M,4 yr Degree,5000,Low Risk,6,1,1
+1083731,M,M,Unknown,1000,High Risk,4,6,3
+398537,M,W,College,7000,Good,1,3,1
+1750255,M,D,4 yr Degree,2000,High Risk,4,2,6
+1807554,F,S,Secondary,1500,Unknown,0,4,6
+1817140,F,U,Primary,10000,Low Risk,2,4,6
+486831,M,M,Advanced Degree,7500,Unknown,2,5,1
+592208,F,W,Primary,500,Unknown,0,1,2
+1347215,M,D,Unknown,3000,High Risk,2,6,4
+1086458,F,W,Advanced Degree,500,Good,5,6,3
+191522,F,M,Primary,8500,Good,6,4,0
+285981,M,M,2 yr Degree,3000,Good,2,0,1
+1389809,M,U,College,7500,Good,3,0,5
+1232083,M,S,Secondary,1000,Good,3,3,4
+1320579,M,U,College,3000,Unknown,4,5,4
+411425,M,D,2 yr Degree,9000,Low Risk,3,3,1
+1166193,M,S,Unknown,10000,Good,5,1,4
+781905,M,D,Primary,5500,High Risk,6,5,2
+506207,M,W,2 yr Degree,6000,Low Risk,6,5,1
+653971,M,M,2 yr Degree,1500,Unknown,4,2,2
+964241,M,M,Unknown,7500,Good,4,3,3
+1464465,M,D,Unknown,500,High Risk,2,2,5
+532588,F,W,College,4500,Good,4,6,1
+731493,M,S,Unknown,5000,High Risk,4,4,2
+1381368,F,W,Advanced Degree,7000,High Risk,1,0,5
+1119432,F,M,Unknown,6000,Unknown,3,0,4
+1805190,F,U,College,4500,Low Risk,0,4,6
+1016261,M,M,Primary,9500,Low Risk,6,4,3
+1629548,F,W,Secondary,10000,Unknown,3,6,5
+1015003,M,S,Primary,500,Low Risk,6,4,3
+1377704,F,S,2 yr Degree,1000,Good,1,0,5
+138765,M,D,College,1500,Unknown,3,3,0
+1123910,F,U,Advanced Degree,8000,High Risk,4,0,4
+1565244,F,S,4 yr Degree,500,High Risk,6,4,5
+16384,F,S,Primary,7500,Unknown,2,0,0
+1582961,M,M,Advanced Degree,7000,High Risk,2,5,5
+862868,F,W,4 yr Degree,3500,Good,0,1,3
+1717133,M,S,2 yr Degree,5500,High Risk,5,1,6
+469419,M,U,Unknown,3000,Unknown,6,4,1
+1382730,F,U,Secondary,7000,Unknown,1,0,5
+978100,F,U,Advanced Degree,6500,High Risk,6,3,3
+960039,M,U,Advanced Degree,7500,Low Risk,3,3,3
+1854476,F,D,2 yr Degree,6500,Good,2,5,6
+584231,M,M,Secondary,3500,Low Risk,6,0,2
+315600,F,U,2 yr Degree,4500,Low Risk,0,1,1
+558447,M,W,Advanced Degree,9000,High Risk,1,0,2
+874871,M,M,Secondary,9500,Good,2,1,3
+599186,F,D,Advanced Degree,10000,Unknown,1,1,2
+10335,M,D,4 yr Degree,4000,Unknown,1,0,0
+1477713,M,S,Secondary,5500,Unknown,4,2,5
+888288,F,W,Advanced Degree,5000,High Risk,4,1,3
+91264,F,S,Advanced Degree,2000,Low Risk,2,2,0
+1729682,F,M,Advanced Degree,5000,Unknown,0,2,6
+559373,M,S,Primary,6000,Unknown,1,0,2
+1728902,F,M,4 yr Degree,9500,High Risk,0,2,6
+16306,F,D,Unknown,6500,Unknown,2,0,0
+1701406,F,D,Advanced Degree,3000,Unknown,2,1,6
+1330107,M,W,2 yr Degree,1000,High Risk,6,5,4
+1802692,F,M,Advanced Degree,6500,Unknown,6,3,6
+1635977,M,W,Primary,6000,Good,5,6,5
+763620,F,U,Advanced Degree,4500,Low Risk,3,5,2
+271495,M,D,2 yr Degree,9500,Low Risk,6,6,0
+435783,M,S,2 yr Degree,3000,Unknown,0,4,1
+1895262,F,M,Secondary,8000,Low Risk,2,6,6
+1468321,M,M,Primary,8500,Good,3,2,5
+1479608,F,W,Secondary,9000,Good,5,2,5
+1445526,F,D,College,5500,Good,6,1,5
+782622,F,M,College,500,Unknown,6,5,2
+924885,M,D,4 yr Degree,6500,Good,4,2,3
+1619645,M,D,Advanced Degree,9000,Good,2,6,5
+564409,M,U,Unknown,1500,Unknown,2,0,2
+985503,M,S,4 yr Degree,9500,Unknown,0,4,3
+801753,M,S,4 yr Degree,7000,Good,3,6,2
+757916,F,D,College,4000,Low Risk,2,5,2
+856647,M,W,Advanced Degree,9000,Unknown,5,0,3
+192521,M,M,College,5500,Low Risk,6,4,0
+1367780,F,U,4 yr Degree,10000,Good,6,6,4
+1508571,M,M,Primary,6000,Low Risk,3,3,5
+468453,M,S,Secondary,6500,High Risk,6,4,1
+254015,M,D,Advanced Degree,4500,Low Risk,3,6,0
+1567179,M,U,Secondary,4500,Unknown,6,4,5
+1602633,M,S,Advanced Degree,7500,Good,6,5,5
+232105,M,D,Advanced Degree,8000,Low Risk,6,5,0
+1051405,M,D,Primary,500,Unknown,5,5,3
+898695,M,D,2 yr Degree,9500,Low Risk,6,1,3
+646038,F,W,Primary,5000,Low Risk,3,2,2
+1183385,M,D,2 yr Degree,3000,Low Risk,1,2,4
+1042055,M,D,2 yr Degree,3500,Good,4,5,3
+238250,F,U,2 yr Degree,2000,High Risk,0,6,0
+1387352,F,M,College,10000,High Risk,2,0,5
+218073,M,S,College,8000,Unknown,3,5,0
+1391374,F,S,Advanced Degree,8500,Low Risk,3,0,5
+1505224,F,S,Secondary,2000,Unknown,2,3,5
+8112,F,M,Unknown,8000,Low Risk,1,0,0
+803683,M,S,Secondary,1000,High Risk,3,6,2
+46929,M,U,College,5500,Low Risk,1,1,0
+1046872,F,M,College,8000,Unknown,4,5,3
+958484,F,S,4 yr Degree,6500,Good,3,3,3
+1507172,F,M,Primary,6000,Good,3,3,5
+1229018,F,W,College,9000,Low Risk,2,3,4
+1350591,M,M,Secondary,7500,Good,3,6,4
+1749884,F,S,College,9500,Low Risk,4,2,6
+745419,M,U,Advanced Degree,4500,Good,0,5,2
+254618,F,W,College,9000,Low Risk,3,6,0
+1716676,F,D,Unknown,2000,High Risk,5,1,6
+189593,M,S,2 yr Degree,4500,Unknown,5,4,0
+456968,F,W,Primary,4500,High Risk,4,4,1
+1521147,M,W,4 yr Degree,5500,High Risk,5,3,5
+236346,F,D,College,8500,Good,0,6,0
+191071,M,M,4 yr Degree,5000,Good,6,4,0
+663940,F,U,Advanced Degree,2500,High Risk,6,2,2
+344097,M,W,4 yr Degree,8000,Low Risk,5,1,1
+218770,F,U,Secondary,3000,Good,4,5,0
+1440762,F,M,College,1500,Low Risk,5,1,5
+567198,F,W,Advanced Degree,1500,Low Risk,3,0,2
+431672,F,M,Advanced Degree,3500,Good,0,4,1
+1528050,F,U,Secondary,5000,Unknown,6,3,5
+176734,F,S,Advanced Degree,2500,High Risk,3,4,0
+683209,M,U,Primary,500,Good,3,3,2
+666142,F,M,College,8500,Unknown,6,2,2
+1599663,M,S,College,6500,High Risk,5,5,5
+1183335,M,D,Advanced Degree,2500,Low Risk,1,2,4
+920700,F,U,Advanced Degree,6500,Low Risk,3,2,3
+854977,M,W,Unknown,7000,High Risk,5,0,3
+1810354,F,S,Secondary,1500,Low Risk,1,4,6
+111655,M,D,Primary,8000,Unknown,5,2,0
+1751790,F,U,2 yr Degree,3000,Unknown,4,2,6
+455314,F,S,2 yr Degree,2500,Low Risk,4,4,1
+978842,F,M,2 yr Degree,2000,Unknown,6,3,3
+1472218,F,W,4 yr Degree,6000,Unknown,3,2,5
+73603,M,S,2 yr Degree,6000,Good,6,1,0
+1297929,M,U,Advanced Degree,1000,Unknown,0,5,4
+221810,F,U,4 yr Degree,4500,High Risk,4,5,0
+432344,F,S,College,8500,Good,0,4,1
+1264673,M,S,Advanced Degree,3500,Unknown,1,4,4
+1789856,F,D,College,5000,High Risk,4,3,6
+1139779,M,U,2 yr Degree,1500,High Risk,0,1,4
+1076685,M,D,Secondary,1000,Low Risk,3,6,3
+1056386,F,D,Secondary,6000,High Risk,6,5,3
+666046,F,D,Unknown,7500,Unknown,6,2,2
+1132359,M,U,2 yr Degree,8500,Good,6,0,4
+1214646,F,D,Primary,6500,Unknown,6,2,4
+946322,F,M,Unknown,9500,Unknown,0,3,3
+617396,F,D,Unknown,10000,Good,5,1,2
+1705908,F,W,Primary,5500,High Risk,3,1,6
+845117,M,W,Primary,7000,Unknown,3,0,3
+385037,M,W,2 yr Degree,500,Unknown,5,2,1
+923565,M,D,Advanced Degree,7000,Unknown,3,2,3
+1355779,M,U,Secondary,4500,Good,4,6,4
+97462,F,M,College,6500,Low Risk,3,2,0
+710269,M,U,4 yr Degree,3500,Unknown,0,4,2
+925607,M,W,Unknown,1500,Low Risk,4,2,3
+1055549,M,U,Secondary,10000,Low Risk,6,5,3
+1422,F,M,College,500,Low Risk,0,0,0
+387796,F,D,Unknown,10000,Good,6,2,1
+672777,M,W,Primary,6000,Good,1,3,2
+747216,F,D,2 yr Degree,7500,Low Risk,0,5,2
+58863,M,S,Unknown,500,High Risk,3,1,0
+1609077,M,W,Advanced Degree,3500,Low Risk,0,6,5
+1421518,F,W,College,4000,Unknown,1,1,5
+428092,F,M,4 yr Degree,8000,Low Risk,6,3,1
+356147,M,W,Advanced Degree,4000,High Risk,0,2,1
+1578307,M,W,Secondary,4000,Unknown,1,5,5
+1820143,M,S,Primary,1500,Good,3,4,6
+616012,F,M,Secondary,500,Good,5,1,2
+1619277,M,W,2 yr Degree,6500,Good,2,6,5
+1319666,F,D,College,6500,High Risk,4,5,4
+1073142,F,M,4 yr Degree,5500,High Risk,2,6,3
+1788684,F,S,4 yr Degree,6500,Low Risk,4,3,6
+1849675,M,D,Unknown,2000,Low Risk,1,5,6
+1567150,F,U,Advanced Degree,4000,Unknown,6,4,5
+1509442,F,M,2 yr Degree,2000,High Risk,3,3,5
+1220429,M,U,4 yr Degree,7500,Unknown,0,3,4
+792572,F,M,2 yr Degree,1500,High Risk,1,6,2
+997407,M,W,4 yr Degree,4500,Good,3,4,3
+169890,F,U,Unknown,3500,Low Risk,2,4,0
+671570,F,U,Advanced Degree,7000,Unknown,0,3,2
+1876138,F,W,Unknown,1000,Good,6,5,6
+114284,F,S,4 yr Degree,6500,Low Risk,6,2,0
+161498,F,W,Primary,4000,Unknown,0,4,0
+1780000,F,U,2 yr Degree,4500,Unknown,2,3,6
+270333,M,S,Unknown,1000,Low Risk,6,6,0
+604591,M,M,Primary,9000,Unknown,2,1,2
+150417,M,W,Advanced Degree,4500,Unknown,5,3,0
+1130666,F,D,College,6500,Unknown,5,0,4
+207393,M,S,Advanced Degree,1500,Good,2,5,0
+120178,F,W,Advanced Degree,8500,Low Risk,0,3,0
+992575,M,D,4 yr Degree,10000,Good,2,4,3
+521392,F,M,2 yr Degree,4500,Good,2,6,1
+64501,M,M,2 yr Degree,1000,High Risk,4,1,0
+1385840,F,U,4 yr Degree,9000,Low Risk,2,0,5
+1426720,F,U,4 yr Degree,1000,Unknown,2,1,5
+344545,M,D,Primary,1500,High Risk,5,1,1
+1751638,F,W,College,2000,Unknown,4,2,6
+1047267,M,W,Unknown,500,Good,5,5,3
+1426976,F,D,College,3000,Unknown,2,1,5
+77899,M,U,Advanced Degree,6500,Unknown,6,1,0
+1500082,F,M,Advanced Degree,5000,Unknown,1,3,5
+94649,M,U,Primary,6500,Unknown,2,2,0
+1630694,F,S,4 yr Degree,8000,Good,4,6,5
+1215962,F,M,Unknown,5500,Good,0,3,4
+422680,F,U,Secondary,9500,Low Risk,5,3,1
+1841326,F,D,4 yr Degree,2500,Unknown,6,4,6
+1662905,M,D,Advanced Degree,8000,Unknown,2,0,6
+1051318,F,W,Advanced Degree,9500,High Risk,5,5,3
+1775400,F,U,Advanced Degree,1500,Good,2,3,6
+334502,F,M,4 yr Degree,9500,High Risk,3,1,1
+1897871,M,M,2 yr Degree,6500,Unknown,2,6,6
+1431584,F,S,Secondary,6000,High Risk,3,1,5
+1799403,M,S,Advanced Degree,3000,Low Risk,6,3,6
+1190464,F,S,4 yr Degree,3500,High Risk,2,2,4
+1240084,F,S,2 yr Degree,8000,Low Risk,4,3,4
+1508035,M,D,College,2000,Low Risk,3,3,5
+266703,M,S,Primary,5500,High Risk,5,6,0
+1391411,M,M,College,9000,Low Risk,3,0,5
+1766146,F,D,4 yr Degree,5500,Low Risk,0,3,6
+1001869,M,U,College,6500,Unknown,3,4,3
+1630219,M,U,Advanced Degree,4500,Good,4,6,5
+1175620,F,U,2 yr Degree,7500,Unknown,6,1,4
+580790,F,U,Unknown,8500,High Risk,5,0,2
+1410467,M,W,2 yr Degree,5000,Unknown,6,0,5
+1769837,M,W,College,2000,Good,1,3,6
+1777946,F,D,Secondary,10000,Low Risk,2,3,6
+1040343,M,S,Primary,1500,Unknown,3,5,3
+1402913,M,S,4 yr Degree,1000,High Risk,5,0,5
+838228,F,W,4 yr Degree,7500,High Risk,2,0,3
+177087,M,W,Advanced Degree,5000,High Risk,3,4,0
+707748,F,W,4 yr Degree,5500,Low Risk,0,4,2
+750307,M,W,4 yr Degree,9500,Unknown,0,5,2
+521703,M,S,Unknown,6500,Good,2,6,1
+772186,F,D,Secondary,6000,Unknown,4,5,2
+968434,F,S,Advanced Degree,7500,Unknown,4,3,3
+466319,M,U,4 yr Degree,1000,Low Risk,6,4,1
+469776,F,D,Primary,6000,Unknown,6,4,1
+469792,F,M,College,6000,Unknown,6,4,1
+881361,M,M,Unknown,5500,Low Risk,3,1,3
+1738827,M,W,College,500,High Risk,2,2,6
+1260501,M,M,Secondary,4000,Good,1,4,4
+907852,F,M,College,5000,Good,1,2,3
+155809,M,U,Advanced Degree,3000,Unknown,6,3,0
+1397985,M,D,Secondary,6000,High Risk,4,0,5
+1263332,F,M,4 yr Degree,4000,High Risk,1,4,4
+1047404,F,S,Unknown,1500,Good,5,5,3
+855562,F,M,College,1500,Unknown,5,0,3
+1135458,F,W,Advanced Degree,500,Unknown,6,0,4
+635306,F,D,Advanced Degree,8000,Low Risk,1,2,2
+1415271,M,M,Secondary,9500,High Risk,0,1,5
+573252,F,M,College,5000,Low Risk,4,0,2
+795593,M,S,4 yr Degree,3000,Good,2,6,2
+279955,M,D,College,10000,Unknown,0,0,1
+366033,M,S,Primary,5000,Low Risk,2,2,1
+831480,F,U,Secondary,9500,Low Risk,1,0,3
+716991,M,M,Advanced Degree,1500,Good,2,4,2
+611053,M,S,College,5000,Good,4,1,2
+1072768,F,W,Secondary,3000,High Risk,2,6,3
+756230,F,U,Secondary,2000,Good,2,5,2
+820326,F,D,Unknown,9500,Low Risk,6,6,2
+520826,F,D,College,500,Good,2,6,1
+1147130,F,U,2 yr Degree,4000,Unknown,1,1,4
+650652,F,M,Primary,8000,Good,4,2,2
+214685,M,D,Unknown,3500,Low Risk,3,5,0
+451128,F,W,4 yr Degree,2500,High Risk,3,4,1
+1792260,F,U,4 yr Degree,2000,Good,5,3,6
+104111,M,M,College,4000,High Risk,4,2,0
+1094718,F,W,Advanced Degree,9500,Low Risk,6,6,3
+1771681,M,M,Advanced Degree,5000,Low Risk,1,3,6
+1828961,M,M,Primary,4500,High Risk,4,4,6
+869834,F,S,Secondary,3500,Low Risk,1,1,3
+1323248,F,W,2 yr Degree,2000,Low Risk,5,5,4
+756029,M,U,College,500,Good,2,5,2
+1019314,F,S,4 yr Degree,1000,Good,0,5,3
+630282,F,M,Primary,2500,High Risk,0,2,2
+1724023,M,S,Unknown,4500,Unknown,6,1,6
+587629,M,U,4 yr Degree,7500,Unknown,6,0,2
+331156,F,D,Advanced Degree,5500,Good,3,1,1
+354043,M,S,Advanced Degree,9000,Good,0,2,1
+393944,F,S,Advanced Degree,4000,Low Risk,0,3,1
+1624946,F,D,2 yr Degree,7000,Good,3,6,5
+1490282,F,M,Advanced Degree,5000,Good,0,3,5
+140683,M,S,Advanced Degree,5000,Good,4,3,0
+1485980,F,U,Secondary,4500,Low Risk,6,2,5
+106525,M,D,Advanced Degree,1000,Good,5,2,0
+450697,M,W,2 yr Degree,9500,Low Risk,3,4,1
+1746802,F,M,College,7500,Unknown,3,2,6
+103443,M,S,Advanced Degree,9000,Low Risk,4,2,0
+666435,M,D,2 yr Degree,500,Good,0,3,2
+1012935,M,D,2 yr Degree,5500,Unknown,5,4,3
+850730,F,U,Secondary,7000,Unknown,4,0,3
+178611,M,M,4 yr Degree,6000,Unknown,3,4,0
+859303,M,S,Advanced Degree,8000,Low Risk,6,0,3
+963833,M,S,Primary,5000,Good,4,3,3
+1072836,F,D,Secondary,3500,High Risk,2,6,3
+676982,F,M,Secondary,6000,Unknown,1,3,2
+449465,M,D,Unknown,500,Low Risk,3,4,1
+371926,F,D,Secondary,7000,Low Risk,3,2,1
+205922,F,M,Advanced Degree,1000,Unknown,1,5,0
+703873,M,S,College,8000,High Risk,6,3,2
+900467,M,W,Advanced Degree,2000,Unknown,6,1,3
+49096,F,D,College,1000,Unknown,1,1,0
+196435,M,D,Secondary,3500,Good,0,5,0
+124050,F,U,Primary,6500,Good,1,3,0
+936867,M,W,Advanced Degree,2000,Low Risk,6,2,3
+1352136,F,D,Secondary,8500,Low Risk,3,6,4
+1356142,F,M,2 yr Degree,7000,Good,4,6,4
+1907370,F,U,Primary,4500,High Risk,4,6,6
+1920015,M,D,Advanced Degree,4500,Unknown,6,6,6
+806017,M,W,2 yr Degree,7500,Unknown,3,6,2
+129388,F,W,College,4500,Good,2,3,0
+1708751,M,M,Advanced Degree,5500,Good,4,1,6
+1071724,F,S,College,5500,Low Risk,2,6,3
+370504,F,S,Unknown,6500,Good,3,2,1
+177375,M,D,Unknown,7000,High Risk,3,4,0
+1808244,F,S,Primary,6500,Unknown,0,4,6
+196961,M,M,Advanced Degree,7000,Good,0,5,0
+1892195,M,D,College,6000,Unknown,1,6,6
+304285,M,D,Unknown,3500,Low Risk,5,0,1
+985630,F,U,College,500,Good,1,4,3
+1011268,F,W,4 yr Degree,3500,High Risk,5,4,3
+1313271,M,M,Primary,1000,High Risk,3,5,4
+1615164,F,S,Advanced Degree,7000,Low Risk,1,6,5
+385342,F,M,Unknown,2500,Unknown,5,2,1
+149653,M,S,Unknown,9000,High Risk,5,3,0
+12401,M,M,Secondary,9000,Good,2,0,0
+823348,F,W,Primary,1500,Good,0,0,3
+883927,M,W,2 yr Degree,4000,Unknown,3,1,3
+1625488,F,W,Secondary,1000,Low Risk,3,6,5
+1560509,M,U,Unknown,6500,High Risk,5,4,5
+1333622,F,M,Advanced Degree,6000,Good,0,6,4
+77204,F,S,Unknown,1500,Unknown,6,1,0
+1265014,F,S,4 yr Degree,6000,Unknown,1,4,4
+1122744,F,S,Secondary,10000,Low Risk,4,0,4
+732864,F,S,2 yr Degree,5000,Unknown,4,4,2
+1194245,M,D,4 yr Degree,500,Low Risk,3,2,4
+814594,F,S,Primary,9000,Low Risk,5,6,2
+308029,M,U,College,500,Good,6,0,1
+569549,M,U,College,8500,High Risk,3,0,2
+407622,F,M,Secondary,2000,Unknown,2,3,1
+1646711,M,M,2 yr Degree,2500,Good,0,0,6
+685807,M,W,Secondary,9000,Low Risk,3,3,2
+788079,M,U,Secondary,9500,High Risk,0,6,2
+1327537,M,W,Advanced Degree,2500,Good,6,5,4
+213450,F,U,Secondary,5000,Good,3,5,0
+1038365,M,D,Advanced Degree,7000,Low Risk,3,5,3
+808203,M,S,Advanced Degree,3000,Low Risk,4,6,2
+1629869,M,U,Advanced Degree,2000,Good,4,6,5
+385117,M,W,4 yr Degree,1000,Unknown,5,2,1
+960408,F,W,Primary,500,High Risk,3,3,3
+1543098,F,W,Secondary,2500,High Risk,2,4,5
+195966,F,D,2 yr Degree,10000,Unknown,6,4,0
+709472,F,M,College,8000,High Risk,0,4,2
+1576432,F,M,2 yr Degree,500,High Risk,1,5,5
+296486,F,D,2 yr Degree,8000,Unknown,3,0,1
+76187,M,W,College,4500,High Risk,6,1,0
+690600,F,U,4 yr Degree,3000,Low Risk,4,3,2
+1807175,M,D,Advanced Degree,8500,High Risk,0,4,6
+269866,F,D,Secondary,8000,Good,6,6,0
+445166,F,D,2 yr Degree,10000,Low Risk,2,4,1
+755169,M,U,Primary,4500,Unknown,1,5,2
+1320209,M,U,Primary,500,Unknown,4,5,4
+802875,M,D,4 yr Degree,5000,Low Risk,3,6,2
+1707593,M,S,Secondary,7500,Unknown,3,1,6
+1023655,M,D,4 yr Degree,2000,Unknown,0,5,3
+947789,M,U,Advanced Degree,10000,Good,1,3,3
+1561101,M,M,2 yr Degree,1000,Unknown,5,4,5
+418158,F,W,4 yr Degree,7000,High Risk,4,3,1
+260801,M,M,Advanced Degree,3000,High Risk,4,6,0
+785497,M,W,College,1000,Low Risk,0,6,2
+1624647,M,W,Secondary,5000,Good,3,6,5
+1886575,M,D,Primary,6000,Unknown,0,6,6
+1911916,F,D,Primary,7000,Low Risk,5,6,6
+233196,F,D,College,6000,High Risk,6,5,0
+1047560,F,U,Primary,3000,Good,5,5,3
+675802,F,M,College,7500,High Risk,1,3,2
+1337350,F,U,Unknown,2500,Unknown,0,6,4
+24154,F,S,Primary,3000,Low Risk,4,0,0
+493379,M,U,Secondary,4500,Good,4,5,1
+1613236,F,D,Secondary,3500,Good,1,6,5
+1184147,M,W,College,8500,Low Risk,1,2,4
+1368551,M,M,Advanced Degree,5500,Low Risk,6,6,4
+284607,M,W,Advanced Degree,3000,Unknown,1,0,1
+1495581,M,M,2 yr Degree,3000,Good,1,3,5
+812732,F,M,2 yr Degree,5500,Good,5,6,2
+20750,F,U,College,8500,High Risk,3,0,0
+549034,F,S,College,2000,Good,0,0,2
+1262241,M,M,Primary,6500,Low Risk,1,4,4
+1890704,F,S,Primary,5500,High Risk,1,6,6
+1605495,M,D,4 yr Degree,8000,High Risk,6,5,5
+1084365,M,D,Unknown,5500,High Risk,4,6,3
+1388609,M,U,Secondary,9000,Unknown,2,0,5
+815822,F,M,4 yr Degree,7500,High Risk,5,6,2
+218783,M,S,2 yr Degree,3000,Good,4,5,0
+1268142,F,M,College,8500,Low Risk,2,4,4
+1008893,M,S,Advanced Degree,6500,Good,5,4,3
+725215,M,D,Secondary,500,High Risk,3,4,2
+909116,F,D,College,4000,Low Risk,1,2,3
+414094,F,S,4 yr Degree,8000,Unknown,3,3,1
+1568326,F,D,4 yr Degree,2500,Good,0,5,5
+642401,M,M,Secondary,9000,High Risk,2,2,2
+1701617,M,W,Advanced Degree,4500,Unknown,2,1,6
+1186346,F,D,Advanced Degree,4000,Unknown,1,2,4
+1917389,M,U,Secondary,6000,Low Risk,6,6,6
+1398989,M,U,2 yr Degree,3000,Unknown,4,0,5
+1144641,M,M,Primary,6500,Low Risk,1,1,4
+1232072,F,M,Primary,1000,Good,3,3,4
+1660560,F,U,Secondary,1500,High Risk,2,0,6
+190840,F,U,Secondary,3500,Good,6,4,0
+149130,F,U,College,5500,High Risk,5,3,0
+361570,F,U,Secondary,3000,High Risk,1,2,1
+602976,F,D,Unknown,7000,High Risk,2,1,2
+710210,F,U,Advanced Degree,3000,Unknown,0,4,2
+703962,F,M,4 yr Degree,8500,High Risk,6,3,2
+1296054,F,S,Primary,8000,Low Risk,0,5,4
+1832782,F,M,4 yr Degree,1500,Low Risk,5,4,6
+1011213,M,S,Unknown,3000,High Risk,5,4,3
+1074879,M,U,College,8000,Unknown,2,6,3
+1531652,F,M,Advanced Degree,500,High Risk,0,4,5
+1676127,M,W,4 yr Degree,2500,Low Risk,5,0,6
+393204,F,S,Secondary,9000,Good,0,3,1
+1818705,M,D,2 yr Degree,1000,Unknown,2,4,6
+1282666,F,D,Advanced Degree,2000,Good,5,4,4
+1251083,M,S,4 yr Degree,6500,Low Risk,6,3,4
+742180,F,U,2 yr Degree,1500,High Risk,6,4,2
+1543919,M,U,Unknown,8000,High Risk,2,4,5
+581226,F,D,Secondary,2000,Unknown,5,0,2
+268342,F,M,2 yr Degree,7000,Unknown,5,6,0
+564799,M,U,2 yr Degree,4500,Unknown,2,0,2
+666061,M,M,Secondary,8000,Unknown,6,2,2
+1687409,M,U,Advanced Degree,3000,Low Risk,0,1,6
+1429437,M,W,2 yr Degree,500,Low Risk,3,1,5
+1048762,F,M,College,1500,Low Risk,5,5,3
+735236,F,D,College,2000,Low Risk,5,4,2
+801108,F,W,College,2500,Good,3,6,2
+1139129,M,U,Secondary,7000,Low Risk,0,1,4
+423870,F,U,Secondary,8000,High Risk,5,3,1
+928324,F,S,Advanced Degree,1000,Unknown,4,2,3
+125535,M,D,College,7000,Low Risk,1,3,0
+296391,M,M,Secondary,7500,Unknown,3,0,1
+1116080,F,U,Unknown,2000,Low Risk,3,0,4
+1404296,F,D,College,1000,Unknown,5,0,5
+760962,F,M,Unknown,5500,Unknown,2,5,2
+1766593,M,S,Primary,9000,Low Risk,0,3,6
+67748,F,W,Advanced Degree,4000,Good,5,1,0
+1824393,M,S,Advanced Degree,1500,Unknown,3,4,6
+222577,M,W,4 yr Degree,10000,High Risk,4,5,0
+446497,M,W,2 yr Degree,9500,High Risk,2,4,1
+1847877,M,W,Secondary,9500,Unknown,0,5,6
+1543946,F,D,College,8500,High Risk,2,4,5
+887509,M,U,4 yr Degree,9500,Low Risk,4,1,3
+1144184,F,S,2 yr Degree,3000,Low Risk,1,1,4
+1206441,M,M,Unknown,7500,Low Risk,5,2,4
+241376,F,D,Secondary,4500,Good,1,6,0
+367408,F,W,4 yr Degree,4500,High Risk,2,2,1
+1700011,M,M,Unknown,3000,High Risk,2,1,6
+1081567,M,W,Unknown,5500,Good,4,6,3
+1252817,M,W,College,9000,High Risk,6,3,4
+1359261,M,M,Primary,9500,High Risk,4,6,4
+959269,M,U,Advanced Degree,2000,Low Risk,3,3,3
+758989,M,U,4 yr Degree,1500,High Risk,2,5,2
+1645722,F,M,College,5500,Unknown,6,6,5
+1473281,M,M,Unknown,3500,Good,4,2,5
+356419,M,U,4 yr Degree,6000,High Risk,0,2,1
+1625941,M,M,Advanced Degree,4000,Low Risk,3,6,5
+961270,F,U,College,6500,High Risk,3,3,3
+1822659,M,U,Unknown,9000,Low Risk,3,4,6
+229523,M,S,Unknown,9500,Unknown,5,5,0
+573840,F,U,4 yr Degree,9000,Low Risk,4,0,2
+473102,F,M,4 yr Degree,9500,Low Risk,0,5,1
+1898614,F,S,Primary,2000,Good,3,6,6
+1552810,F,U,Unknown,1500,Low Risk,4,4,5
+637295,M,D,Secondary,2500,Unknown,1,2,2
+1383557,M,W,Primary,3000,Good,2,0,5
+1800349,M,U,Secondary,10000,Low Risk,6,3,6
+744530,F,U,Primary,8500,Unknown,6,4,2
+755079,M,U,Advanced Degree,3500,Unknown,1,5,2
+4475,M,D,Unknown,2000,Unknown,0,0,0
+1668531,M,M,Secondary,8500,Unknown,3,0,6
+1786610,F,U,Unknown,1500,Good,4,3,6
+664304,F,S,Primary,5500,High Risk,6,2,2
+731498,F,W,Unknown,5000,High Risk,4,4,2
+1270440,F,U,Primary,5000,Unknown,2,4,4
+357109,M,U,2 yr Degree,1000,Unknown,0,2,1
+1481361,M,M,College,1500,High Risk,5,2,5
+341071,M,M,2 yr Degree,6500,Unknown,4,1,1
+1539708,F,W,Advanced Degree,8000,Unknown,1,4,5
+472959,M,U,2 yr Degree,8500,Low Risk,0,5,1
+1657017,M,W,4 yr Degree,6000,Unknown,1,0,6
+1499086,F,D,2 yr Degree,8000,High Risk,1,3,5
+591787,M,W,Primary,7500,High Risk,0,1,2
+113169,M,U,4 yr Degree,8500,Good,6,2,0
+796437,M,W,4 yr Degree,9000,Good,2,6,2
+1410557,M,W,Advanced Degree,5500,Unknown,6,0,5
+92252,F,M,Unknown,9000,Low Risk,2,2,0
+832859,M,U,Unknown,9000,High Risk,1,0,3
+173733,M,S,Unknown,1000,Good,3,4,0
+893788,F,W,College,4500,High Risk,5,1,3
+359569,M,U,4 yr Degree,8500,Good,1,2,1
+122537,M,W,2 yr Degree,5500,Unknown,0,3,0
+626115,M,D,2 yr Degree,2500,Unknown,6,1,2
+1160014,F,S,4 yr Degree,6000,Good,4,1,4
+1403580,F,U,Primary,6000,High Risk,5,0,5
+478671,M,M,Secondary,9500,Low Risk,1,5,1
+1017964,F,S,College,1500,Unknown,6,4,3
+992341,M,M,College,8500,Good,2,4,3
+112347,M,W,Unknown,2500,Good,6,2,0
+1780956,F,D,Secondary,1500,Good,3,3,6
+568561,M,M,College,1500,High Risk,3,0,2
+1058638,F,W,College,2000,Good,0,6,3
+962714,F,S,Primary,7000,Unknown,3,3,3
+14692,F,M,Unknown,5000,High Risk,2,0,0
+1487459,M,U,College,5000,High Risk,6,2,5
+1918764,F,S,Unknown,5500,High Risk,6,6,6
+883087,M,W,2 yr Degree,8000,High Risk,3,1,3
+513651,M,M,Unknown,9000,High Risk,0,6,1
+622407,M,W,2 yr Degree,6000,Good,6,1,2
+978090,F,U,4 yr Degree,6500,High Risk,6,3,3
+1550841,M,M,Unknown,7500,Unknown,3,4,5
+1544431,M,M,College,2000,Unknown,2,4,5
+1474260,F,U,Advanced Degree,500,Low Risk,4,2,5
+1208915,M,D,Secondary,5500,Unknown,5,2,4
+1216401,M,M,Secondary,9000,Good,0,3,4
+1074249,M,U,College,3500,Unknown,2,6,3
+1659845,M,D,Primary,6500,Low Risk,2,0,6
+62793,M,S,Primary,9000,Good,4,1,0
+603613,M,S,Primary,2000,Unknown,2,1,2
+996691,M,M,2 yr Degree,9500,Unknown,2,4,3
+168695,M,D,Unknown,5000,Good,2,4,0
+1133428,F,W,Advanced Degree,6000,Low Risk,6,0,4
+941498,F,W,Unknown,5000,Good,0,3,3
+1076822,F,M,Secondary,2000,Low Risk,3,6,3
+1027460,F,U,Unknown,9000,Low Risk,1,5,3
+758355,M,D,4 yr Degree,7000,Low Risk,2,5,2
+550377,M,W,2 yr Degree,1500,Low Risk,0,0,2
+1621134,F,S,Primary,10000,Low Risk,2,6,5
+1839711,M,M,4 yr Degree,1000,High Risk,6,4,6
+1879601,M,M,2 yr Degree,6000,High Risk,6,5,6
+459372,F,M,2 yr Degree,1500,Good,5,4,1
+162320,F,U,Advanced Degree,9500,Unknown,0,4,0
+43187,M,W,Unknown,8500,High Risk,0,1,0
+104227,M,W,Unknown,4500,High Risk,4,2,0
+593465,M,D,Primary,9500,Unknown,0,1,2
+171824,F,S,4 yr Degree,7500,High Risk,2,4,0
+1144561,M,M,Unknown,5500,Low Risk,1,1,4
+1009243,M,S,Advanced Degree,9000,Good,5,4,3
+231941,M,M,2 yr Degree,7000,Low Risk,6,5,0
+1880323,M,S,Advanced Degree,1000,Unknown,6,5,6
+1354222,F,M,Primary,3500,Unknown,3,6,4
+730766,F,D,2 yr Degree,10000,Low Risk,4,4,2
+104464,F,S,College,6500,High Risk,4,2,0
+1160091,M,M,Advanced Degree,6500,Good,4,1,4
+1919081,M,M,2 yr Degree,8000,High Risk,6,6,6
+1789052,F,M,Unknown,9000,Low Risk,4,3,6
+797198,F,W,2 yr Degree,4500,Low Risk,2,6,2
+1420105,M,D,Secondary,4000,High Risk,1,1,5
+619095,M,D,Secondary,2500,High Risk,5,1,2
+1089505,M,D,College,2500,High Risk,5,6,3
+323166,F,D,4 yr Degree,8500,High Risk,1,1,1
+398330,F,U,College,5500,Good,1,3,1
+1072542,F,M,Primary,1500,High Risk,2,6,3
+1706184,F,S,Primary,7500,High Risk,3,1,6
+940654,F,S,Unknown,9000,Unknown,6,2,3
+640740,F,U,College,7000,Low Risk,2,2,2
+54941,M,M,Unknown,2500,Unknown,2,1,0
+427156,F,D,Secondary,1500,Low Risk,6,3,1
+915372,F,M,Advanced Degree,8500,Low Risk,2,2,3
+1778979,M,U,Unknown,7000,High Risk,2,3,6
+547127,M,W,Primary,8500,High Risk,6,6,1
+1396017,M,W,Primary,2000,Low Risk,4,0,5
+209881,M,M,College,9500,Low Risk,2,5,0
+1357162,F,M,Primary,4500,Low Risk,4,6,4
+573855,M,D,Unknown,9000,Low Risk,4,0,2
+1392157,M,W,Unknown,4000,High Risk,3,0,5
+305341,M,M,Primary,1500,High Risk,5,0,1
+1195416,F,D,College,9000,Low Risk,3,2,4
+195187,M,W,College,4500,Unknown,6,4,0
+951848,F,W,Advanced Degree,9000,Unknown,1,3,3
+1380535,M,D,Unknown,1000,High Risk,1,0,5
+454115,M,D,College,4000,Good,4,4,1
+212469,M,U,Secondary,8000,Unknown,2,5,0
+926587,M,W,Unknown,8500,Low Risk,4,2,3
+837169,M,U,2 yr Degree,10000,Low Risk,2,0,3
+1541587,M,W,4 yr Degree,1500,Low Risk,2,4,5
+771356,F,D,College,10000,High Risk,4,5,2
+975457,M,W,Primary,8000,Good,6,3,3
+1907256,F,D,2 yr Degree,3500,High Risk,4,6,6
+1770717,M,W,Unknown,8000,Good,1,3,6
+1438732,F,M,College,7000,Unknown,4,1,5
+529000,F,U,Primary,9000,Low Risk,3,6,1
+1174536,F,D,Primary,10000,High Risk,6,1,4
+825088,F,W,Unknown,3500,Low Risk,0,0,3
+467113,M,S,Primary,7000,Low Risk,6,4,1
+214556,F,D,Primary,3000,Low Risk,3,5,0
+729950,F,U,Advanced Degree,4000,Low Risk,4,4,2
+322027,M,W,College,500,High Risk,1,1,1
+230939,M,U,Primary,10000,Good,6,5,0
+1329040,F,U,Secondary,3500,Low Risk,6,5,4
+1839455,M,D,Unknown,9000,Low Risk,6,4,6
+999981,M,M,2 yr Degree,3000,High Risk,3,4,3
+839919,M,U,Advanced Degree,9500,Unknown,2,0,3
+1178874,F,S,Primary,1000,High Risk,0,2,4
+1063308,F,W,Primary,5500,Unknown,0,6,3
+489642,F,M,Unknown,7500,Low Risk,3,5,1
+1585980,F,U,Advanced Degree,8500,Good,3,5,5
+170762,F,M,2 yr Degree,10000,Low Risk,2,4,0
+1219269,M,U,Primary,9500,High Risk,0,3,4
+93070,F,U,2 yr Degree,5000,High Risk,2,2,0
+1365295,M,D,Secondary,2500,Unknown,5,6,4
+300638,F,W,Advanced Degree,7500,High Risk,4,0,1
+845035,M,D,Unknown,6000,Unknown,3,0,3
+1678953,M,S,Primary,3000,Unknown,5,0,6
+1192438,F,W,Advanced Degree,7500,Unknown,2,2,4
+1384032,F,M,Unknown,6000,Good,2,0,5
+931686,F,D,Advanced Degree,5000,Low Risk,5,2,3
+1876979,M,U,Unknown,7000,Good,6,5,6
+1415680,F,U,Unknown,2000,Unknown,0,1,5
+228185,M,D,Advanced Degree,10000,High Risk,5,5,0
+414460,F,U,Advanced Degree,500,Good,4,3,1
+541764,F,S,2 yr Degree,10000,High Risk,5,6,1
+973742,F,M,4 yr Degree,5500,Unknown,5,3,3
+680187,M,W,Unknown,8500,Low Risk,2,3,2
+953810,F,U,Advanced Degree,3000,Low Risk,2,3,3
+361224,F,S,College,500,High Risk,1,2,1
+1363165,M,D,Advanced Degree,7000,Low Risk,5,6,4
+1080284,F,S,4 yr Degree,6500,Unknown,3,6,3
+1237910,F,U,College,2500,Good,4,3,4
+705388,F,W,Unknown,8500,Unknown,6,3,2
+1392785,M,D,Unknown,8500,High Risk,3,0,5
+650243,M,S,Secondary,5000,Good,4,2,2
+1493971,M,M,2 yr Degree,1500,Unknown,0,3,5
+1218924,F,S,Secondary,7000,High Risk,0,3,4
+1081020,F,U,Primary,2000,Good,4,6,3
+425274,F,S,College,8000,Unknown,5,3,1
+1208107,M,W,4 yr Degree,9500,High Risk,5,2,4
+1001918,F,W,Primary,7000,Unknown,3,4,3
+1428089,M,U,Secondary,1000,Good,3,1,5
+416241,M,M,College,3500,Low Risk,4,3,1
+1511497,M,W,Advanced Degree,6500,Unknown,3,3,5
+1054848,F,W,Secondary,5000,Low Risk,6,5,3
+792895,M,D,Primary,4000,High Risk,1,6,2
+1414726,F,D,College,5500,High Risk,0,1,5
+1811192,F,M,Secondary,7500,Low Risk,1,4,6
+55591,M,M,Secondary,7500,Unknown,2,1,0
+1038207,M,W,2 yr Degree,6000,Low Risk,3,5,3
+1555824,F,S,Primary,3500,Unknown,4,4,5
+781353,M,S,Secondary,1500,High Risk,6,5,2
+1694742,F,M,4 yr Degree,5500,High Risk,1,1,6
+1292578,F,W,College,3000,Unknown,6,4,4
+1821965,M,D,Primary,4500,Low Risk,3,4,6
+1897896,F,D,Advanced Degree,6500,Unknown,2,6,6
+1779368,F,W,2 yr Degree,10000,High Risk,2,3,6
+1592558,F,W,Advanced Degree,5500,Low Risk,4,5,5
+878332,F,M,4 yr Degree,4000,Unknown,2,1,3
+517706,F,D,Advanced Degree,8000,Low Risk,1,6,1
+547658,F,W,4 yr Degree,2000,Unknown,6,6,1
+1228131,M,M,Advanced Degree,2500,Low Risk,2,3,4
+859770,F,U,College,1500,High Risk,6,0,3
+523890,F,U,Primary,2500,High Risk,2,6,1
+574023,M,S,College,500,High Risk,4,0,2
+1509668,F,W,4 yr Degree,3500,High Risk,3,3,5
+305296,F,D,College,1000,High Risk,5,0,1
+770303,M,S,College,2500,High Risk,4,5,2
+496459,M,U,Secondary,6500,High Risk,4,5,1
+75900,F,U,Secondary,2500,High Risk,6,1,0
+347731,M,M,4 yr Degree,4000,Good,6,1,1
+917673,M,S,4 yr Degree,5000,Unknown,2,2,3
+1035667,M,W,Secondary,8000,Unknown,2,5,3
+1362357,M,W,Secondary,1500,Low Risk,5,6,4
+951261,M,M,2 yr Degree,5000,Unknown,1,3,3
+814025,M,D,Unknown,4500,Low Risk,5,6,2
+1811973,M,S,College,3000,High Risk,1,4,6
+1799604,F,S,4 yr Degree,4500,Low Risk,6,3,6
+1123672,F,M,2 yr Degree,6500,High Risk,4,0,4
+348226,F,D,4 yr Degree,7500,Good,6,1,1
+1458461,M,M,Secondary,8000,Low Risk,1,2,5
+660571,M,M,Advanced Degree,8500,Unknown,5,2,2
+693259,M,U,4 yr Degree,2000,Unknown,4,3,2
+1137420,F,U,Advanced Degree,4500,Good,0,1,4
+447000,F,U,4 yr Degree,3000,Unknown,2,4,1
+938834,F,S,Unknown,6000,High Risk,6,2,3
+948210,F,U,Advanced Degree,3000,Low Risk,1,3,3
+689721,M,M,Secondary,7000,Good,4,3,2
+287384,F,S,2 yr Degree,3000,Low Risk,2,0,1
+1257669,M,U,4 yr Degree,3500,High Risk,0,4,4
+438879,M,U,4 yr Degree,5000,Low Risk,1,4,1
+1689283,M,S,4 yr Degree,6500,High Risk,0,1,6
+659486,F,D,Secondary,1000,Unknown,5,2,2
+1655827,M,W,4 yr Degree,7500,High Risk,1,0,6
+180989,M,U,2 yr Degree,3000,Low Risk,4,4,0
+1637601,M,M,College,7500,Low Risk,5,6,5
+733441,M,M,Advanced Degree,9000,Unknown,4,4,2
+608089,M,U,Unknown,3500,High Risk,3,1,2
+1764844,F,S,Primary,6500,Good,0,3,6
+1688701,M,M,College,2500,High Risk,0,1,6
+470612,F,M,Primary,2000,Good,0,5,1
+279755,M,D,2 yr Degree,8500,Unknown,0,0,1
+728871,M,M,2 yr Degree,6500,Good,4,4,2
+1252845,M,D,Advanced Degree,9000,High Risk,6,3,4
+1198433,M,S,2 yr Degree,500,Good,4,2,4
+1266245,M,D,Secondary,5000,Good,2,4,4
+2805,M,D,Primary,500,High Risk,0,0,0
+1484797,M,W,College,6000,Good,6,2,5
+1464826,F,D,Primary,3500,High Risk,2,2,5
+1107727,M,W,4 yr Degree,2500,Unknown,1,0,4
+1699100,F,U,Advanced Degree,6500,Low Risk,2,1,6
+283417,M,W,Advanced Degree,4500,High Risk,1,0,1
+1408813,M,S,Unknown,3000,High Risk,6,0,5
+786544,F,S,College,8500,Low Risk,0,6,2
+369034,F,S,Unknown,6000,Unknown,2,2,1
+218066,F,D,Secondary,8000,Unknown,3,5,0
+924340,F,U,Advanced Degree,2500,Good,4,2,3
+678282,F,M,Advanced Degree,5000,Good,2,3,2
+711083,M,S,College,9500,Unknown,0,4,2
+443130,F,U,College,5500,Good,2,4,1
+937938,F,W,Primary,10000,Low Risk,6,2,3
+731398,F,W,2 yr Degree,4500,High Risk,4,4,2
+791821,M,M,Advanced Degree,6000,Low Risk,1,6,2
+1834888,F,W,4 yr Degree,6500,High Risk,5,4,6
+880046,F,D,Primary,6500,Good,3,1,3
+1401513,M,S,4 yr Degree,1000,Low Risk,5,0,5
+1084267,M,W,2 yr Degree,5000,High Risk,4,6,3
+1634900,F,U,4 yr Degree,8000,Unknown,4,6,5
+792673,M,S,Unknown,2000,High Risk,1,6,2
+1017267,M,W,College,6500,High Risk,6,4,3
+987589,M,U,College,4500,Low Risk,1,4,3
+1266888,F,W,College,9500,Good,2,4,4
+1111497,M,W,2 yr Degree,9500,Low Risk,2,0,4
+684585,M,D,Advanced Degree,10000,Good,3,3,2
+960049,M,U,Unknown,7500,Low Risk,3,3,3
+1676575,M,D,Primary,6000,Low Risk,5,0,6
+1546747,M,W,College,8500,Good,3,4,5
+1060303,M,S,Secondary,4000,Low Risk,0,6,3
+785273,M,S,Secondary,9500,Good,0,6,2
+1298877,M,W,College,8000,Unknown,0,5,4
+1690921,M,M,Primary,8500,Unknown,0,1,6
+1537591,M,M,4 yr Degree,3000,High Risk,1,4,5
+329527,M,W,2 yr Degree,4000,Unknown,2,1,1
+1011306,F,D,Secondary,4000,High Risk,5,4,3
+893218,F,W,Secondary,500,High Risk,5,1,3
+1829415,M,D,2 yr Degree,7500,High Risk,4,4,6
+1681419,M,U,Secondary,500,Low Risk,6,0,6
+1919079,M,U,College,8000,High Risk,6,6,6
+1327801,M,M,4 yr Degree,4500,Good,6,5,4
+536887,M,W,Advanced Degree,5000,Unknown,4,6,1
+1592789,M,U,Primary,7500,Low Risk,4,5,5
+1680393,M,S,4 yr Degree,3000,Good,6,0,6
+568665,M,D,Advanced Degree,2000,High Risk,3,0,2
+1709948,F,W,Advanced Degree,4000,Low Risk,4,1,6
+1884450,F,U,4 yr Degree,500,High Risk,0,6,6
+120835,M,D,Secondary,3500,High Risk,0,3,0
+371371,M,M,College,3000,Low Risk,3,2,1
+1644130,F,U,2 yr Degree,4000,High Risk,6,6,5
+105119,M,U,4 yr Degree,1000,Unknown,4,2,0
+810510,F,U,4 yr Degree,9500,High Risk,4,6,2
+722443,M,S,4 yr Degree,500,Good,3,4,2
+1145233,M,S,2 yr Degree,500,High Risk,1,1,4
+1856513,M,S,4 yr Degree,1000,High Risk,2,5,6
+112340,F,U,Advanced Degree,2500,Good,6,2,0
+1023748,F,W,Unknown,2500,Unknown,0,5,3
+1121371,M,M,4 yr Degree,10000,Good,4,0,4
+1608354,F,S,2 yr Degree,8500,Good,0,6,5
+1596802,F,M,2 yr Degree,6000,Good,5,5,5
+1840156,F,D,Unknown,4000,High Risk,6,4,6
+1672916,F,D,Advanced Degree,9500,High Risk,4,0,6
+108146,F,D,Unknown,2500,Low Risk,5,2,0
+1447373,M,S,Advanced Degree,8500,Low Risk,6,1,5
+630517,M,W,College,4000,High Risk,0,2,2
+324678,F,W,Secondary,9500,Unknown,1,1,1
+1180526,F,D,4 yr Degree,2500,Unknown,0,2,4
+1129936,F,D,Unknown,1000,Unknown,5,0,4
+1849872,F,M,Advanced Degree,3500,Low Risk,1,5,6
+497470,F,U,4 yr Degree,3500,Unknown,4,5,1
+870273,M,S,2 yr Degree,6500,Low Risk,1,1,3
+317641,M,M,Advanced Degree,9000,High Risk,0,1,1
+1683353,M,S,Unknown,4000,High Risk,6,0,6
+219260,F,U,Secondary,6500,Good,4,5,0
+1161106,F,D,Secondary,4000,Low Risk,4,1,4
+590820,F,U,Secondary,500,High Risk,0,1,2
+1474739,M,U,4 yr Degree,4000,Low Risk,4,2,5
+1246332,F,M,Advanced Degree,2500,High Risk,5,3,4
+264299,M,U,4 yr Degree,8000,Good,5,6,0
+552982,F,M,Advanced Degree,10000,High Risk,0,0,2
+1520107,M,W,Advanced Degree,8000,Low Risk,5,3,5
+258237,M,W,Primary,5000,Good,4,6,0
+448884,F,S,4 yr Degree,6500,Good,3,4,1
+220061,M,M,Advanced Degree,2000,Low Risk,4,5,0
+907928,F,W,College,5500,Good,1,2,3
+272281,M,M,Advanced Degree,5000,High Risk,6,6,0
+17647,M,W,Primary,6500,Good,3,0,0
+318540,F,U,2 yr Degree,5500,Unknown,0,1,1
+918336,F,D,Primary,10000,Unknown,2,2,3
+664454,F,S,Secondary,6500,High Risk,6,2,2
+811330,F,U,College,5500,Unknown,4,6,2
+780525,M,D,College,5500,Low Risk,6,5,2
+307039,M,U,Secondary,3500,Unknown,5,0,1
+1870711,M,M,2 yr Degree,2500,Good,5,5,6
+1797010,F,U,2 yr Degree,6000,Unknown,5,3,6
+1542987,M,W,4 yr Degree,1500,High Risk,2,4,5
+555356,F,D,4 yr Degree,7000,Good,1,0,2
+1546195,M,D,2 yr Degree,4500,Good,3,4,5
+12672,F,M,Primary,1000,Low Risk,2,0,0
+303983,M,S,4 yr Degree,1500,Low Risk,5,0,1
+819003,M,S,Primary,500,Low Risk,6,6,2
+299886,F,D,Primary,2500,High Risk,4,0,1
+1703773,M,S,4 yr Degree,10000,Good,3,1,6
+1864342,F,M,2 yr Degree,7000,Unknown,3,5,6
+1681327,M,W,Unknown,9500,Good,6,0,6
+699922,F,M,Unknown,9500,Unknown,5,3,2
+669083,M,S,College,9500,Low Risk,0,3,2
+1566284,F,S,2 yr Degree,8000,High Risk,6,4,5
+858293,M,S,College,1000,Low Risk,6,0,3
+212707,M,W,4 yr Degree,9500,Unknown,2,5,0
+1873053,M,S,Unknown,9000,Low Risk,5,5,6
+544661,M,M,Unknown,500,Low Risk,6,6,1
+942795,M,D,2 yr Degree,4500,Low Risk,0,3,3
+148002,F,M,College,7500,Low Risk,5,3,0
+965224,F,S,Unknown,4500,Low Risk,4,3,3
+138545,M,D,Secondary,10000,High Risk,3,3,0
+1573537,M,W,Primary,10000,Unknown,0,5,5
+1522596,F,D,College,6000,Unknown,5,3,5
+225472,F,M,Primary,1000,Low Risk,5,5,0
